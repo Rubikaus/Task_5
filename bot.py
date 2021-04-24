@@ -3,7 +3,7 @@ import random
 import json
 import requests
 
-api_key = 'bc727dc3777a57c2c2d9b43226afb051b2b4870607293d30eb578e18341ff7a0f682a1852e22c816bb05a'
+api_key = ''
 
 vk = vk_api.VkApi(token=api_key)
 vk._auth_token()
